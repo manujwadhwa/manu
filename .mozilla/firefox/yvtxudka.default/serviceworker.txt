@@ -1,0 +1,16 @@
+4
+
+https://www.youtube.com/
+https://www.youtube.com/sw.js
+{4e8ed6b7-e770-4c43-a46d-3f13ab9a63d3}
+#
+
+https://freekaamaal.com/
+https://freekaamaal.com/OneSignalSDKWorker.js
+{09621a07-ab32-435d-92e1-6e07aba46db2}
+#
+
+https://www.healthkart.com/
+https://www.healthkart.com/service-worker.js
+{876edfa7-9fd9-4924-b7f4-955363c5c007}
+#
